@@ -1,0 +1,36 @@
+{
+  "header": {
+    "comment": "eric tasks file for project yolo",
+    "warning": "This file was generated automatically, do not edit.",
+    "saved": "2022-06-04, 14:45:41"
+  },
+  "ProjectScanFilter": "",
+  "Tasks": [
+    {
+      "summary": "WARNING: Any manual changes made to this file will be lost when pyuic5 is",
+      "description": "",
+      "priority": 1,
+      "lineno": 7,
+      "completed": false,
+      "created": 1654325131.6544685,
+      "type": 2,
+      "uid": "{5d70373b-7532-4d58-b8dc-199d3dfdd2af}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\College_Innovation_entrepreneurship\\PyQt5_Yolo\\Ui_untitled.py"
+    },
+    {
+      "summary": "WARNING: Any manual changes made to this file will be lost when pyuic5 is",
+      "description": "",
+      "priority": 1,
+      "lineno": 7,
+      "completed": false,
+      "created": 1654325131.6774666,
+      "type": 2,
+      "uid": "{3d4333c7-0c79-4b79-a3cc-f5e6244acd25}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\College_Innovation_entrepreneurship\\PyQt5_Yolo\\Ui_untitled1.py"
+    }
+  ]
+}
