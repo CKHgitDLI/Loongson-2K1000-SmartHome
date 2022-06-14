@@ -1,4 +1,4 @@
-absl-py==1.0.0
+absl-py==1.1.0
 altgraph==0.17.2
 asttokens==2.0.5
 auto-py-to-exe==2.20.1
