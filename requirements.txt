@@ -55,7 +55,7 @@ PyQt5-sip==12.10.1
 pyqt5-tools==5.15.4.3.2
 PyQtChart==5.15.5
 PyQtChart-Qt5==5.15.2
-PyQtWebEngine==5.15.5
+PyQtWebEngine==5.15.6
 PyQtWebEngine-Qt5==5.15.2
 python-dateutil==2.8.2
 python-dotenv==0.20.0
